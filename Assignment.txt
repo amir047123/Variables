@@ -1,0 +1,49 @@
+✅ Task 1: Check if the User is an Adult or Minor
+👉 Instructions:
+Take the user's age as input using prompt().
+Convert the input to a number.
+Check if the age is 18 or above.
+If true, print "You are an adult."
+Otherwise, print "You are a minor."
+
+
+
+
+ Task 2: Check if a Number is Positive, Negative, or Zero
+👉 Instructions:
+Take a number as input from the user.
+Convert it to a number using Number().
+Check if the number is:
+Positive → Print "The number is positive."
+Negative → Print "The number is negative."
+Zero → Print "The number is zero."
+
+
+
+✅ Task 3: Display a Welcome Message with User’s Name
+👉 Instructions:
+Take the user’s name as input.
+Print a greeting message like:
+"Hello, [UserName]! Welcome to JavaScript Learning."
+
+
+
+✅ Task 4: Multiply Two Numbers
+👉 Instructions:
+Take two numbers from the user.
+Convert them into numbers using Number().
+Multiply them and display the result.
+
+
+✅ Task 5: Check if a Number is Even or Odd
+👉 Instructions:
+Take a number as input.
+Check if it's even or odd using the modulus (%) operator.
+Print "Even number" if it’s divisible by 2, otherwise print "Odd number".
+
+
+✅ Task 6: Find the Maximum of Three Numbers
+👉 Instructions:
+Take three numbers from the user.
+Compare them using if-else statements.
+Print the largest number.
